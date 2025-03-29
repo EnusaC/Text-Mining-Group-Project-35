@@ -1,19 +1,19 @@
-sentence_id	sentence	sentiment	topic
-0	The atmosphere at the stadium tonight was electric.	positive	sports
-1	The game was so intense I forgot to breathe at times. What a win!	positive	sports
-2	It had me hooked from the first chapter.	positive	book
-3	It’s more of a slow burn than a page-turner, but it’s well-written, I guess.	neutral	book
-4	It’s split into two timelines, which keeps it interesting but also a bit confusing at times.	neutral	book
-5	I could watch this film a hundred times and still find something new to love about it.	positive	movie
-6	Best thriller I’ve seen in ages. Had me on the edge of my seat the entire time.	positive	movie
-7	How do you concede three goals in ten minutes? The whole defence needs replacing.	negative	sports
-8	They rotated their squad for the cup game, which wasn’t surprising given the schedule.	neutral	sports
-9	The trailer gave away most of the plot, but there were still a few surprises.	neutral	movie
-10	The protagonist was so whiny I wanted to throw the book across the room.	negative	book
-11	The author’s writing style is so unique – poetic, but not over the top.	positive	book
-12	I don't get how was it supposed to work without any chemistry between the leads.	negative	movie
-13	It's still 0-0 so far, so way too early to tell - both teams trying their hardest, but maybe it won't be enough?	neutral	sports
-14	I don't get the appeal at all, it's just a couple guys kicking a ball around at the end of the day.	negative	sports
-15	Did you hear the screenplay for it was originally written on a napkin?	neutral	movie
-16	It's really incredibly impressive to mess up such a tested blockbuster formula.	negative	movie
-17	The only way it's helped me is by keeping my table from being wobbly.	negative	book
+Text	Sentiment	Relevant Topic	ID
+The atmosphere at the stadium tonight was electric.	POS	sports	0
+The game was so intense I forgot to breathe at times. What a win!	POS	sports	1
+It had me hooked from the first chapter.	POS	book	2
+It’s more of a slow burn than a page-turner, but it’s well-written, I guess.	NEU	book	3
+It’s split into two timelines, which keeps it interesting but also a bit confusing at times.	NEU	book	4
+I could watch this film a hundred times and still find something new to love about it.	POS	movie	5
+Best thriller I’ve seen in ages. Had me on the edge of my seat the entire time.	POS	movie	6
+How do you concede three goals in ten minutes? The whole defence needs replacing.	NEG	sports	7
+They rotated their squad for the cup game, which wasn’t surprising given the schedule.	NEU	sports	8
+The trailer gave away most of the plot, but there were still a few surprises.	NEU	movie	9
+The protagonist was so whiny I wanted to throw the book across the room.	NEG	book	10
+The author’s writing style is so unique – poetic, but not over the top.	POS	book	11
+I don't get how was it supposed to work without any chemistry between the leads.	NEG	movie	12
+It's still 0-0 so far, so way too early to tell - both teams trying their hardest, but maybe it won't be enough?	NEU	sports	13
+I don't get the appeal at all, it's just a couple guys kicking a ball around at the end of the day.	NEG	sports	14
+Did you hear the screenplay for it was originally written on a napkin?	NEU	movie	15
+It's really incredibly impressive to mess up such a tested blockbuster formula.	NEG	movie	16
+The only way it's helped me is by keeping my table from being wobbly.	NEG	book	17
